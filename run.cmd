@@ -1,0 +1,1 @@
+cmd /c ngrok http -region=ap 3000
